@@ -1,13 +1,13 @@
 import React from "react";
 import { FaLinkedin, FaEnvelope } from "react-icons/fa";
-import ImageRes from "../components/card.png";
+import ResImage from "../components/card.png";
 
 function Header() {
   return (
     <header>
       <div>
         <div className="image-container">
-          <img alt="mainImage" src={ImageRes} className="main-image" />
+          <img alt="mainImage" src={ResImage} className="main-image" />
         </div>
 
         <h1>Sakina Ibrahimova</h1>
