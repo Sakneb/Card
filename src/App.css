@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #5093e2;
+  background-color: #132c49;
 }
 
 h1 {
@@ -27,7 +27,7 @@ h3 {
   height: 14.19px;
   left: 186px;
   top: 414px;
-  padding-left: 71px;
+  padding-left: 83px;
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
@@ -35,7 +35,7 @@ h3 {
   line-height: 15px;
   text-align: center;
 
-  color: #f3bf99;
+  color: #edd1bd;
 
   display: inline;
 }
@@ -53,6 +53,8 @@ h3 {
   align-items: center;
   gap: 8px;
   margin-right: 16px;
+
+  text-decoration: none;
 
   width: 115px;
   height: 34px;
@@ -73,6 +75,7 @@ h3 {
 }
 
 .linkedIn {
+  text-decoration: none;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -106,12 +109,8 @@ h3 {
 .footer {
   background-color: #161619;
   border-radius: 0px 0px 10px 10px;
-  width: 317px;
-  height: 64px;
-  left: 116px;
-  top: 760px;
-  padding: 18px 6px;
-  margin: 10px -5px;
+  padding: 18px 7px;
+  margin: 10px 9px;
   display: flex;
   justify-content: space-between;
 }
@@ -129,12 +128,13 @@ h3 {
 
 .container {
   padding: 11px 27px;
-  margin: 16px 144px;
+  margin: 16px 544px;
   width: 320px;
   background-color: #1a1b21;
   border-radius: 0.8rem;
   overflow: hidden;
   text-align: left;
+  box-shadow: 0px 1px 2px rgba(1, 0, 0, 0.05);
 }
 
 .first--p,
