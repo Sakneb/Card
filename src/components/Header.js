@@ -11,7 +11,7 @@ function Header() {
         </div>
 
         <h1>Sakina Ibrahimova</h1>
-        <h3>Frontend Developer</h3>
+        <h3>Software engineer</h3>
         <div className="connect">
           <a
             rel="external"
